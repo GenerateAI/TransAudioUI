@@ -6,4 +6,4 @@ The following templates can be directly used in Amazon MTurk. Audio files are st
 https://generateai.github.io/TransAudioUI
 
 ## Multiple utterances collection template
-https://generateai.github.io/TransAudioUI/multi.html
+https://generateai.github.io/TransAudioUI/multi
