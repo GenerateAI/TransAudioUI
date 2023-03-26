@@ -1,5 +1,5 @@
 # TransAudioUI
-A user interface to collect audio transcriptions from crowdsourcing workers.__
+A user interface to collect audio transcriptions from crowdsourcing workers. <br />
 The following templates can be directly used in Amazon MTurk. 
 
 ## Single utterance collection template
