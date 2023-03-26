@@ -1,8 +1,8 @@
 # TransAudioUI
 A user interface to collect audio transcriptions from crowdsourcing workers
 
-## Template - Single utterance per task
+## Single utterance collection template
 https://generateai.github.io/TransAudioUI/
 
-## Template - Multiple utterances per task
+## Multiple utterances collection template
 https://generateai.github.io/TransAudioUI/
